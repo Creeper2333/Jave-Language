@@ -6,11 +6,13 @@
 vstr|<varname>|<value>[type converter]|<goto>
 ```
 以下代码定义了一个名为`var_a`的变量，这个变量的内容是一串文本:
-`vstr|var_a|damedane|2`
+```
+vstr|var_a|damedane|2
+```
 如果要指定一个数字变量，可以用以下方法：
 ```
 vstr|var_b|114514&i|2
-vstr|var_a|1919.81&f|2
+vstr|var_c|1919.81&f|2
 ```
 其中，`var_b`是一个 int 类型变量，`var_c`是一个 float 类型变量
 
@@ -52,7 +54,7 @@ rmvr|<varname>|[optional]|<goto>
 如：
 ```
 vstr|var123|blyat|2
-vstr|var123||3
+rmvr|var123||3
 exit|0||0
 ```
 ## 输入/输出流（I/O Stream）
@@ -109,10 +111,11 @@ rnm，退钱！
 ```
 sclr|<stack name>|[optional]|<goto>
 ```
-其中，<stack name> 可以为以下三种：
+其中，`<stack name>` 可以为以下三种：
 - input，输入流
 - output，输出流
 - var，变量和常量
+
 以下代码显示一段文本，随即清屏，输出另一段文本：
 ```
 aostr|hello world!&s|0|2
@@ -131,6 +134,7 @@ hello world!
 ```
 damedane~
 ```
+ _PS：其实我这玩意是假的输入输出流，参见 jruntime.py。_ 
 ## 其它
 ### 强制终止程序
 使用`exit`指令强制终止程序。
@@ -151,7 +155,11 @@ goto|[optional]|[optional]|<(invalid) goto>
 
 
 ## 致谢
-### 哔哩哔哩的 Soviet--1917（寥若星辰吖）博士
-感谢你杜撰出 Jave 这一「强大无比」的计算机语言，使我们可以使用繁琐度堪比汇编语言，资源占用还如此离谱的东西制作出一个又一个（虽然目前只有两个）又臭又长的程序。另外，感谢你可以编造出 MS Word IDE 这一伟大的工具。借助此工具，我们完全可以摆脱那些令人眼花缭乱的 IDE，只用一个 word 文档就完成所有项目的开发。所有！如果哪天我可以和你在b站进行深入♂交流，我将不胜感激。
+### 哔哩哔哩的 [Soviet--1917](http://https://space.bilibili.com/445691468)（寥若星辰吖）博士
+感谢您杜撰出 Jave 这一「强大无比」的计算机语言，使我们可以使用繁琐度堪比汇编语言，资源占用还如此离谱的东西制作出一个又一个（虽然目前只有两个）又臭又长的程序。另外，感谢您可以编造出 MS Word IDE 这一伟大的工具。借助此工具，我们完全可以摆脱那些令人眼花缭乱的 IDE，只用一个 word 文档就完成所有项目的开发。所有！如果哪天我可以和您在b站进行深入♂交流，我将不胜感激。
 
 ——Jave 语言开发者本人，2021年七月
+
+![寥若星辰](https://images.gitee.com/uploads/images/2021/0720/181652_32595246_7791515.png "“玉音放送”")
+
+_寥若星辰吖博士对某位 IT 相关从业者进行单独授课_
