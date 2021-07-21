@@ -6,11 +6,11 @@ Jave 是一项用于装逼的技术，可以让 装逼过程 变得更有意思�
 Jave 与 javecrisp 并不相同，后者是一种用于创建 Web 页的复杂技术，甚至能在浏览器中运行。但它目前还未被发布出来。
 
 ### 发明历程
-Jave 这一伟大的发明出自b站年龄不知道多少岁的天才少年黑客[1](#1)，[Soviet--1917](https://space.bilibili.com/445691468) 博士（原名 寥若星辰吖）之手。博士在b站开展计算机技术公开课时回答了一位学生的问题，并在0.00114514秒内构思出了 Jave 组成的基石—— JBMan(Jave Base Manifest standard)。由此标准衍生出了包含 Jave Interop Services，Jave Runtime Module, Jave New RAM Standard 的 Jave Framework。
+Jave 这一伟大的发明出自b站年龄不知道多少岁的天才少年黑客[[1]](#引用与注释)，[Soviet--1917](https://space.bilibili.com/445691468) 博士（原名 寥若星辰吖）之手。博士在b站开展计算机技术公开课时回答了一位学生的问题，并在0.00114514秒内构思出了 Jave 组成的基石—— JBMan(Jave Base Manifest standard)。由此标准衍生出了包含 Jave Interop Services，Jave Runtime Module, Jave New RAM Standard 的 Jave Framework。
 
 ### 特性
 Jave 语言从一开始就被设计的很离谱，但是这些设计使得它的各方面性能得到了很大的提升，for example:
-- 摒弃了考虑底层硬件的思维，不使用传统的计算机模型，而是限制应用程序只能在 Jave Runtime Sandbox Program 中执行。此举虽然牺牲了一定性能（其实是很多性能），却获得了极高的安全性。塞翁失马，焉知非福？[2]
+- 摒弃了考虑底层硬件的思维，不使用传统的计算机模型，而是限制应用程序只能在 Jave Runtime Sandbox Program 中执行。此举虽然牺牲了一定性能（其实是很多性能），却获得了极高的安全性。塞翁失马，焉知非福？[[2]](引用与注释)
 - 使用传统的类似汇编语言逻辑，不使用现在某些语言的繁琐的控制结构，而是使用 goto 这一传统却有效的方法实现代码逻辑。对新人友好易上手。
 - 指令简短，容易输入；参数简洁，方便记忆。
 - 解释器使用大受欢迎的 Python 语言开发，便于维护，并给了第三方编写更多模块的机会。
