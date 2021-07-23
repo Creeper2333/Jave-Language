@@ -5,8 +5,8 @@
 - 这个东西和 Java 语言没有任何关系。就像我说的，这就是个搞笑的东西
 #### 介绍
 1.  只是一个好玩的项目，梗来自于一位打着我的世界旗号的所谓[反迷你人士](https://space.bilibili.com/445691468)，[梗出处点这](https://www.bilibili.com/video/BV137411t7Af#reply2358299858)
-2.  教程：[点这里！！](tutorial.md)
-3.  语言的介绍！[看这看这！](brief_introduction.md)
+2.  教程：[点这里](tutorial.md)
+3.  语言的介绍！[看这个](brief_introduction.md)
 
 作者不是专业人员（我就是个中学生！高中还没开学闲得慌），也几乎没学过什么编译原理，就像我说的，这玩意只是拿来好玩
 #### 软件架构
