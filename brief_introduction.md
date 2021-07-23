@@ -3,7 +3,7 @@
 Jave 是一项用于装逼的技术，可以让 装逼过程 变得更有意思（？）。 
 
 ### 误区
-Jave 与 javecrisp 并不相同，后者是一种用于创建 Web 页的复杂技术，甚至能在浏览器中运行。但它目前还未被发布出来。
+Jave 与 javecrisp(???) 并不相同，后者是一种用于创建 Web 页的复杂技术，甚至能在浏览器中运行。但它目前还未被发布出来。
 
 ### 发明历程
 Jave 这一伟大的发明出自b站年龄不知道多少岁的天才少年黑客[[1]](#引用与注释)，[Soviet--1917](https://space.bilibili.com/445691468) 博士（原名 寥若星辰吖）之手。博士在b站开展计算机技术公开课时回答了一位学生的问题，并在0.00114514秒内构思出了 Jave 组成的基石—— JBMan(Jave Base Manifest standard)。由此标准衍生出了包含 Jave Interop Services，Jave Runtime Module, Jave New RAM Standard 的 Jave Framework。
