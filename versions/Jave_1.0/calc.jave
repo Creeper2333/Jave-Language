@@ -1,0 +1,22 @@
+aostr|simple calculator: 1 for plus, other for minus|0|2
+rfostr|0|0|3
+aistr|&s|operation: |4
+istram|var-op|0|5
+aistr|&i|num 1: |6
+istram|var-num1|0|7
+aistr|&i|num 2: |8
+istram|var-num2|0|9
+cstr|defaultop|1&s|10
+j=|?var-op|?defaultop|12
+j+|?var-num1|?var-num2|13
+j-|?var-num1|?var-num2|13
+istram|var-r|0|14
+aostr|?var-r|0|15
+rfostr|0|0|16
+aistr|&s||17
+sclr|input|0|18
+sclr|output|0|19
+rmvr|defaultop|0|01
+exit|||0
+
+example of a calculator.
